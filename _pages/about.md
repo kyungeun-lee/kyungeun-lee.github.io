@@ -3,17 +3,19 @@ title: "About"
 permalink: /
 ---
 
+
 **Representation Analysis & Application Lab. @ Inha University**
 
-We study **learned representations in deep learning** to improve generalization and to better understand the underlying mechanisms of neural networks, with a strong emphasis on **information-theoretic analysis**.
+We study **how and why deep learning models succeed or fail in real-world prediction problems**, with a particular focus on understanding and analyzing **learned representations**.
 
-Building on this foundation, we develop machine learning algorithms for **real-world prediction problems**, particularly in practical application scenarios involving **tabular and structured data**. 
+Our research is grounded in **information-theoretic principles**, which we use as quantitative tools to analyze generalization, diagnose representation collapse, and assess the reliability of neural networks.
+
+Building on this foundation, we develop machine learning algorithms for **practical and deployable prediction systems**, especially in settings involving **tabular and structured data**, such as finance, healthcare, and industrial applications.
 
 Our current research interests include:
-- Information-theoretic analysis of generalization in deep neural networks  
-- Learning and inference on tabular data  
-- Multimodal learning with structured data
-
+- Information-theoretic **analysis and diagnosis** of generalization in deep neural networks  
+- **Reliable and deployable** learning and inference on tabular data  
+- Multimodal learning with structured data for **real-world decision systems**
 
 ---
 
