@@ -4,14 +4,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+<h2>Publications</h2>
 
+<p>
 Our research focuses on understanding and improving the reliability of deep learning systems,
 with an emphasis on information-theoretic analysis, tabular data, and real-world decision problems.
+</p>
 
-You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
+{% if site.author.googlescholar %}
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  </div>
+{% endif %}
 
----
+<hr/>
 
 ## Preprints
 *(Available on arXiv or currently under peer review)*
