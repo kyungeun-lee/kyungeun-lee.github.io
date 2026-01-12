@@ -9,6 +9,8 @@ author_profile: true
 Our research focuses on understanding and improving the reliability of deep learning systems,
 with an emphasis on information-theoretic analysis, tabular data, and real-world decision problems.
 
+You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
+
 ---
 
 ## Preprints
