@@ -5,32 +5,53 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Research</h2>
-
 <p>
-Our research focuses on understanding and improving the reliability of deep learning systems,
-with an emphasis on information-theoretic analysis, tabular data, and real-world decision problems.
+Our research is motivated by practical issues observed when applying deep learning models
+to real-world prediction problems, particularly in settings involving tabular and structured data.
+In many applications, models achieve strong performance on benchmarks but exhibit unstable behavior
+when deployed, such as sensitivity to spurious correlations or unexpected failures under distribution shifts.
 </p>
 
 <hr />
 
-<h3>Key Problems We Tackle</h3>
+<h3>Problems We Study</h3>
 <ul>
-  <li>Reliability and failure modes of deep learning systems</li>
-  <li>Representation collapse and spurious correlations</li>
-  <li>Anomaly and out-of-distribution detection in tabular data</li>
+  <li>
+    Why do models trained on tabular data often rely on unstable or redundant features,
+    even when overall prediction accuracy is high?
+  </li>
+  <li>
+    How can representation collapse or loss of informative features be identified
+    during training or after deployment?
+  </li>
+  <li>
+    How can anomalous or out-of-distribution inputs be detected
+    when labels are scarce or unavailable?
+  </li>
 </ul>
 
-<h3>Our Approach</h3>
+<h3>Our Perspective</h3>
 <ul>
-  <li>Information-theoretic analysis of learned representations</li>
-  <li>Lightweight and deployable learning algorithms</li>
-  <li>Diagnostics and monitoring for real-world ML systems</li>
+  <li>
+    We use information-theoretic quantities as diagnostic tools to analyze
+    the behavior of learned representations.
+  </li>
+  <li>
+    Our focus is on lightweight methods that can be applied to existing models
+    without extensive retraining or additional data.
+  </li>
+  <li>
+    We emphasize analyses and algorithms that are feasible in practical deployment settings.
+  </li>
 </ul>
 
-<h3>Application Domains</h3>
+<h3>Application Contexts</h3>
 <ul>
-  <li>Finance, healthcare, and industrial tabular data</li>
-  <li>Anomaly detection and system monitoring</li>
-  <li>Benchmarking and evaluation of learning algorithms</li>
+  <li>
+    Tabular prediction problems in finance, healthcare, and industrial systems,
+    where data are heterogeneous and often limited.
+  </li>
+  <li>
+    Monitoring and anomaly detection scenarios in which reliability is as important as accuracy.
+  </li>
 </ul>
