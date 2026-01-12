@@ -12,3 +12,24 @@
   font-size: 0.92em;
   color: #666;
 }
+
+/* ===== Publications badges ===== */
+.pub { margin: 0 0 0.9rem 0; }
+.pub-title { font-weight: 600; font-size: 1.0em; }
+.pub-meta { font-size: 0.92em; color: #666; }
+
+.pub-badge{
+  display:inline-block;
+  min-width: 1.2em;
+  padding: 0.05em 0.45em;
+  margin-right: 0.5em;
+  border-radius: 999px;
+  font-size: 0.78em;
+  font-weight: 700;
+  vertical-align: baseline;
+  border: 1px solid rgba(0,0,0,0.12);
+}
+
+.pub-j{ background: rgba(0,120,255,0.10); color: rgba(0,90,200,1); }
+.pub-c{ background: rgba(255,140,0,0.12); color: rgba(180,90,0,1); }
+.pub-p{ background: rgba(0,0,0,0.06); color: rgba(0,0,0,0.70); }
