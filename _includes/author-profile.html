@@ -172,7 +172,7 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}
       {% if author.cv %}
-      <li><a href="{{ author.cv }}"><i class="fas fa-file-pdf"></i> CV</a></li>
+      <li><a href="{{ author.cv | relative_url }}"><i class="fas fa-fw fa-file-pdf icon-pad-right" aria-hidden="true"></i>CV</a></li>
       {% endif %}
     </ul>
   </div>
