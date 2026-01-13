@@ -12,11 +12,18 @@ Email: kyungeun.lee@inha.ac.kr
 
 ---
 
-## Students
-*(Open positions for undergraduate researchers and MS/PhD students.)*  
-Please contact via email.
+## MS Students 
+**Hakseong Kim**
+
+---
+
+## Undergraduate Students
+**Hoseop Kim**
+
+**Kyunghyun Park**
+
+**Donghwan Kim**
 
 ---
 
 ## Alumni
-*(To be updated.)*
