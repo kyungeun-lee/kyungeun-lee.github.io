@@ -29,7 +29,7 @@ author:
   bio              : "Assistant Professor @ Inha University"
   location         : "Incheon, Republic of Korea"
   employer         : "Inha University"
-  uri              : "/files/cv_kyungeun_lee.pdf"
+  cv               : "/files/cv_kyungeun_lee.pdf"
   email            : "kyungeun.lee@inha.ac.kr" 
 
   # Academic websites
