@@ -13,16 +13,12 @@ Email: kyungeun.lee@inha.ac.kr
 ---
 
 ## MS Students 
-**Hakseong Kim**
+김학성
 
 ---
 
 ## Undergraduate Students
-**Hoseop Kim**
-
-**Kyunghyun Park**
-
-**Donghwan Kim**
+김동환, 김예인, 김호섭, 박경현, 정영운, 정준우
 
 ---
 
