@@ -6,7 +6,7 @@ permalink: /
 
 **Representation Analysis & Application Lab. @ Inha University**
 
-We study **representation learning** from both algorithmic and theoretical perspectives.
+We study how to learn **better representations**—and how to understand **what those representations encode**.
 
 Our research develops learning algorithms and architectures that enable machine learning models to acquire effective representations for diverse data domains and tasks. We also investigate how learned representations are organized and evolve during training, with **information theory** serving as a key analytical framework.
 
