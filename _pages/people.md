@@ -14,8 +14,7 @@ Email: kyungeun.lee@inha.ac.kr
 
 - **2025–Present** — Assistant Professor, Department of Artificial Intelligence Engineering, Inha University
 - **2023–2025** — LG AI Research, Data Intelligence Lab.
-- **2016–2023** — M.S. & Ph.D., Seoul National University  
-  Advisor: Prof. Wonjong Rhee
+- **2016–2023** — M.S. & Ph.D., Seoul National University (Advisor: Prof. Wonjong Rhee)
 - **2014–2015** — Samsung Engineering, Industrial Environment Division
 - **2010–2014** — B.S., Civil & Environmental Engineering, Seoul National University
 
