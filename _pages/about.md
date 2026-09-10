@@ -6,21 +6,16 @@ permalink: /
 
 **Representation Analysis & Application Lab. @ Inha University**
 
-We study how AI learns meaningful representations from imperfect, structured, and multimodal observations.
+We study **representation learning** from both algorithmic and theoretical perspectives.
 
-Our goal is to develop representation learning principles that enable robust generalization, reliable reasoning, and effective decision making across diverse real-world environments.
+Our research develops learning algorithms and architectures that enable machine learning models to acquire effective representations for diverse data domains and tasks. We also investigate how learned representations are organized and evolve during training, with **information theory** serving as a key analytical framework.
 
-Our research combines information-theoretic analysis with modern machine learning to understand how representations emerge, transfer across domains, and support intelligent behavior. Rather than focusing on a single application, we investigate fundamental learning principles that generalize across structured data, multimodal foundation models, and physical AI systems.
+Our current research focuses on:
 
-Ultimately, we aim to build AI systems that can learn from heterogeneous, incomplete, and continuously evolving real-world information.
-
-Our current research interests include:
-- Representation Learning and Generalization
-- Information-Theoretic Analysis of Deep Learning
-- Structured and Multimodal Foundation Models
-- Learning from Imperfect and Heterogeneous Data
-- Representation Learning for Physical AI
-- Reliable Machine Learning for Real-World Deployment
+- **Tabular Learning** — prediction and generative modeling for tabular data
+- **Multimodal Foundation Models** — learning across tabular, text, and time-series modalities
+- **Information-Theoretic Analysis of Representation Learning**
+- **Representation Learning for Medical AI and Physical AI**
 
 ---
 
