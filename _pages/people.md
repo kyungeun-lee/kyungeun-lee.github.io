@@ -35,18 +35,18 @@ For detailed information, please refer to the **CV** and **Google Scholar** link
 
 ## MS Students 
 
-- 김학성 (2026 Spring - )
+- 김학성 (2026 Spring — )
 
 ---
 
 ## Undergraduate Students
-- 김동환 (2025 Winter - )
-- 김호섭 (2025 Winter - )
-- 박경현 (2025 Winter - )
-- 정영운 (2026 Spring - )
-- 정준우 (2026 Spring - )
-- 김예인 (2026 Spring - )
-- 임지안 (2026 Fall - )
+- 김동환 (2025 Winter — )
+- 김호섭 (2025 Winter — )
+- 박경현 (2025 Winter — )
+- 정영운 (2026 Spring — )
+- 정준우 (2026 Spring — )
+- 김예인 (2026 Spring — )
+- 임지안 (2026 Fall — )
 
 ---
 
