@@ -29,6 +29,9 @@ My previous research has spanned time-series forecasting, 3D perception, industr
 - Information-theoretic analysis of deep representations
 - Tabular prediction
 
+For detailed information, please refer to the **CV** and **Google Scholar** links in the profile panel on the left.
+
+
 ---
 
 ## MS Students 
